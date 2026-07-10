@@ -1,5 +1,5 @@
 
-# 🎮 Gesture Bubble Game
+# 🎮 Gesture Controlled Gaming
 
 An interactive computer vision game built with Python where you pop floating fruits using your hand gestures via webcam.
 
